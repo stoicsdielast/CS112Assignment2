@@ -1,0 +1,8 @@
+﻿  LinkedList.cpp
+  main.cpp
+C:\Users\rynal\source\repos\A2_S11230414_S11230375\main.cpp(26,12): warning C4101: 'courseWork': unreferenced local variable
+C:\Users\rynal\source\repos\A2_S11230414_S11230375\main.cpp(26,24): warning C4101: 'finalExam': unreferenced local variable
+  Student.cpp
+  Utils.cpp
+  Generating Code...
+  StudentGradeManagement.vcxproj -> C:\Users\rynal\source\repos\A2_S11230414_S11230375\x64\Debug\StudentGradeManagement.exe

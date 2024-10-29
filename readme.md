@@ -24,6 +24,7 @@ Enhanced Readability and Maintenance:
  Code that utilizes classes is often more readable, as it allows for meaningful names and structures. This enhances maintainability and reduces the likelihood of errors during updates or modifications.
 
 Files:
+
 	main.cpp: The main source code file.
 	LinkedList.cpp: containing implementation of the LinkedList.h as the header file.
 	Student.cpp: Contains the student class with student.h as the header.
@@ -31,6 +32,7 @@ Files:
 	studentData.txt: A text file containing the student data (ID, coursework marks, final 	exam marks).
 
 Features:
+
  	Reading Data: Reads student records from a text file.
  	Grade Calculation: Calculates grades based on the total marks (coursework + final 	exam) from the University of the South Pacific's Handbook 2024.
  	Update Functionality: Allows the user to update a student's marks by their ID.

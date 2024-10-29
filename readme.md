@@ -4,10 +4,10 @@
 By: -Parvish Mohan  (s11230414)
     -Tanzeel Hussain (s11230375)
 
-Overview:
+## Overview:
 
 The program has been successfully transitioned from using arrays of structs to utilizing linked lists of class objects. Here’s an overview of the key aspects and advantages of this approach:
-Key Features:
+### Key Features:
 Dynamic Sizing:
         The linked list allows for dynamic memory allocation, meaning it can grow and shrink as needed. This eliminates the limitations of fixed-size arrays, providing flexibility in managing student data.
 
@@ -36,7 +36,7 @@ Features:
  	Update Functionality: Allows the user to update a student's marks by their ID.
  	Printing Details: Displays all student records, average marks, pass rate, and the top 	scorer's details.
 
-HOW TO RUN:
+## HOW TO RUN:
 Prerequisites:
 
     A C++ compiler (such as g++, clang, or MSVC).

@@ -9,19 +9,19 @@ By: -Parvish Mohan  (s11230414)
 The program has been successfully transitioned from using arrays of structs to utilizing linked lists of class objects. Here’s an overview of the key aspects and advantages of this approach:
 ### Key Features:
 Dynamic Sizing:
-        The linked list allows for dynamic memory allocation, meaning it can grow and shrink as needed. This eliminates the limitations of fixed-size arrays, providing flexibility in managing student data.
+ The linked list allows for dynamic memory allocation, meaning it can grow and shrink as needed. This eliminates the limitations of fixed-size arrays, providing flexibility in managing student data.
 
 Object-Oriented Programming:
-        By using classes instead of structs, the program leverages the principles of object-oriented programming (OOP). This includes encapsulation, inheritance (if applicable), and polymorphism, leading to a 	more modular and organized codebase.
+By using classes instead of structs, the program leverages the principles of object-oriented programming (OOP). This includes encapsulation, inheritance (if applicable), and polymorphism, leading to a 	more modular and organized codebase.
 
 Modularity:
-        The use of classes allows for better organization of code into reusable components. Each class can contain its own methods and data, making it easier to manage complex functionalities related to student 	records, such as updating marks, calculating grades, and displaying information.
+The use of classes allows for better organization of code into reusable components. Each class can contain its own methods and data, making it easier to manage complex functionalities related to student 	records, such as updating marks, calculating grades, and displaying information.
 
 Improved Data Management:
-        The linked list structure facilitates easier insertion and deletion of student records. New students can be added without the need for shifting elements, and records can be removed efficiently.
+The linked list structure facilitates easier insertion and deletion of student records. New students can be added without the need for shifting elements, and records can be removed efficiently.
 
 Enhanced Readability and Maintenance:
-        Code that utilizes classes is often more readable, as it allows for meaningful names and structures. This enhances maintainability and reduces the likelihood of errors during updates or modifications.
+ Code that utilizes classes is often more readable, as it allows for meaningful names and structures. This enhances maintainability and reduces the likelihood of errors during updates or modifications.
 
 Files:
 	main.cpp: The main source code file.
